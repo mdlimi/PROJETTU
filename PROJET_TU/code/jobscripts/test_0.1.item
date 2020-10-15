@@ -1,5 +1,4 @@
 SCRIPT_VERSION=4.2, 
-//jobType=Standard, 
 DEFAULT_CONTEXT:Default,
 ContextType {
 NAME:Default
@@ -103,37 +102,37 @@ FOOTER_CODE: ,
 FOOTER_IMPORT: , 
 } 
 addRoutinesParameters {
-addRoutinesParameter { 
-NAME: DQTechnical} 
-addRoutinesParameter { 
-NAME: DataMasking} 
-addRoutinesParameter { 
-NAME: DataOperation} 
-addRoutinesParameter { 
-NAME: DataQualityDependencies} 
-addRoutinesParameter { 
-NAME: DataQuality} 
-addRoutinesParameter { 
-NAME: DqStringHandling} 
-addRoutinesParameter { 
-NAME: MDM} 
-addRoutinesParameter { 
-NAME: Mathematical} 
-addRoutinesParameter { 
-NAME: Numeric} 
-addRoutinesParameter { 
-NAME: Relational} 
-addRoutinesParameter { 
-NAME: SQLike} 
-addRoutinesParameter { 
-NAME: StringHandling} 
-addRoutinesParameter { 
-NAME: TalendDataGenerator} 
-addRoutinesParameter { 
-NAME: TalendDate} 
-addRoutinesParameter { 
-NAME: TalendStringUtil} 
-addRoutinesParameter { 
-NAME: TalendString} 
+addRoutinesParameter{ 
+NAME:DQTechnical} 
+addRoutinesParameter{ 
+NAME:DataMasking} 
+addRoutinesParameter{ 
+NAME:DataOperation} 
+addRoutinesParameter{ 
+NAME:DataQualityDependencies} 
+addRoutinesParameter{ 
+NAME:DataQuality} 
+addRoutinesParameter{ 
+NAME:DqStringHandling} 
+addRoutinesParameter{ 
+NAME:MDM} 
+addRoutinesParameter{ 
+NAME:Mathematical} 
+addRoutinesParameter{ 
+NAME:Numeric} 
+addRoutinesParameter{ 
+NAME:Relational} 
+addRoutinesParameter{ 
+NAME:SQLike} 
+addRoutinesParameter{ 
+NAME:StringHandling} 
+addRoutinesParameter{ 
+NAME:TalendDataGenerator} 
+addRoutinesParameter{ 
+NAME:TalendDate} 
+addRoutinesParameter{ 
+NAME:TalendStringUtil} 
+addRoutinesParameter{ 
+NAME:TalendString} 
 } 
  }
