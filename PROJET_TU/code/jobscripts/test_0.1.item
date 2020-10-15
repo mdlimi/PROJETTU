@@ -1,5 +1,5 @@
 SCRIPT_VERSION=4.2, 
-jobType=Standard, 
+//jobType=Standard, 
 DEFAULT_CONTEXT:Default,
 ContextType {
 NAME:Default
@@ -103,37 +103,37 @@ FOOTER_CODE: ,
 FOOTER_IMPORT: , 
 } 
 addRoutinesParameters {
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: DQTechnical} 
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: DataMasking} 
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: DataOperation} 
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: DataQualityDependencies} 
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: DataQuality} 
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: DqStringHandling} 
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: MDM} 
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: Mathematical} 
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: Numeric} 
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: Relational} 
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: SQLike} 
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: StringHandling} 
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: TalendDataGenerator} 
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: TalendDate} 
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: TalendStringUtil} 
-addRoutinesParameter: { 
+addRoutinesParameter { 
 NAME: TalendString} 
 } 
  }
